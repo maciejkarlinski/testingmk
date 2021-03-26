@@ -2,4 +2,4 @@
 opisuje ze to do niczego
 ghjklghj
 lkoiujqtzi
-zmiana dla firstbr
+SECOND BRANCH
